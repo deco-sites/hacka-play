@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/hacka-play/": "./",
+
     "deco-sites/deco-bf/": "./",
 
     "$store/": "./",
